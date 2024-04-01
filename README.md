@@ -30,3 +30,8 @@ https://arxiv.org/pdf/1812.08767.pdf
 
 https://d-nb.info/1255977884/34
 
+http://theory.caltech.edu/~preskill/ph12b/12b-final-10-soln.pdf
+
+https://www.gc.cuny.edu/sites/default/files/2023-07/SOLUTIONS-QUANTUM-MECHANICS-AUG-2020-THRU-SPRING-2023-DM-FINAL.pdf
+
+
