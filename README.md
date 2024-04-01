@@ -17,3 +17,9 @@ https://github.com/PennyLaneAI/generative-quantum-states/tree/main
 https://github.com/XanaduAI/hardness-spin-dynamics/blob/main/src/ham_utils.hpp
 
 
+
+https://people.nscl.msu.edu/~pratt/phy851/presentations/jammooa_tsantiri.pdf
+
+https://bohr.physics.berkeley.edu/classes/221/notes/variational.pdf
+
+https://bingweb.binghamton.edu/~suzuki/QM_Graduate/Variational_principle.pdf
